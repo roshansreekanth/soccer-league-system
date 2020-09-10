@@ -1,0 +1,43 @@
+.button {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.button:pressed{
+    -fx-border-color:blue;
+}
+
+.root
+{
+    -fx-background-color: rgb(70, 70, 70);
+}
+
+.label
+{
+    -fx-text-fill: white;
+}
+
+.check-box
+{
+    -fx-text-fill: white;
+}
+
+.tab-header-background{
+    -fx-background-color: black;
+}
+
+.tab
+{
+    -fx-background-color: rgb(56, 56, 56);
+}
+
+.tab-label
+{
+    -fx-text-fill: white;
+}
+
+.spinner .increment-arrow-button,
+.spinner .decrement-arrow-button {
+    -fx-body-color: black;
+
+}
