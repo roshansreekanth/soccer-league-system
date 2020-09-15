@@ -9,7 +9,7 @@
 
 Soccer league system using JPA and Derby for storage and persistence
 
-* Designed a GUI system for league management
+* Designed a GUI system for sports league management
 * Persisted information to a Derby database using JPA
 * JavaDoc documentation and JUnit testing
 * MVC Structure
