@@ -1,5 +1,5 @@
 # soccer-league-system
-### Part of the Object Oriented Principles module
+### Part of the Object Oriented Programming module
 
 ## Requirements (included in lib folder)
 1. db-derby-10.14.2.0-bin
